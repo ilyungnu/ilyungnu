@@ -1,6 +1,6 @@
 ```typescript
 const introduce:object = {
-    position: "frontend developer",
+    position: "web developer",
     techstack: ["nextjs", "react", "typescript", "SCSS" ],
     tool: ["vscode", "figma", "jira", "confluence"],
 }
